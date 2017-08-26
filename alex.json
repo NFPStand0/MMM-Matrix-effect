@@ -1,0 +1,356 @@
+{
+“canvasWidth”: 500,
+“canvasHeight”: 500,
+“textPoints”: 10,
+“fontName”: “Courier New”,
+“primaryColor”: “#0D0”,
+“alternateColors”: [{
+“name”: “highlight”,
+“color”: “#0F0”
+}],
+“updateSpeed”: 5,
+“animationMatrix”: [{
+“frame”: 1,
+“matrix”: [{
+“column”: 1,
+“sections”: [{
+“start”: -1,
+“end”: -1
+}]
+}, {
+“column”: 2,
+“sections”: [{
+“start”: 480,
+“end”: 500
+}]
+}, {
+“column”: 3,
+“sections”: [{
+“start”: 480,
+“end”: 500
+}]
+}, {
+“column”: 4,
+“sections”: [{
+“start”: 470,
+“end”: 500
+}]
+}, {
+“column”: 5,
+“sections”: [{
+“start”: 470,
+“end”: 500
+}]
+}, {
+“column”: 6,
+“sections”: [{
+“start”: 470,
+“end”: 500
+}]
+}, {
+“column”: 7,
+“sections”: [{
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 8,
+“sections”: [{
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 9,
+“sections”: [{
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 10,
+“sections”: [{
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 11,
+“sections”: [{
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 12,
+“sections”: [{
+“start”: 220,
+“end”: 280
+}, {
+“start”: 440,
+“end”: 500
+}]
+}, {
+“column”: 13,
+“sections”: [{
+“start”: 80,
+“end”: 300
+}, {
+“start”: 440,
+“end”: 500
+}]
+}, {
+“column”: 14,
+“sections”: [{
+“start”: 85,
+“end”: 300
+}, {
+“start”: 440,
+“end”: 500
+}]
+}, {
+“column”: 15,
+“sections”: [{
+“start”: 70,
+“end”: 310
+}, {
+“start”: 440,
+“end”: 500
+}]
+}, {
+“column”: 16,
+“sections”: [{
+“start”: 60,
+“end”: 315
+}, {
+“start”: 440,
+“end”: 500
+}]
+}, {
+“column”: 17,
+“sections”: [{
+“start”: 60,
+“end”: 318
+}, {
+“start”: 430,
+“end”: 500
+}]
+}, {
+“column”: 18,
+“sections”: [{
+“start”: 60,
+“end”: 320
+}, {
+“start”: 420,
+“end”: 500
+}]
+}, {
+“column”: 19,
+“sections”: [{
+“start”: 40,
+“end”: 500
+}]
+}, {
+“column”: 20,
+“sections”: [{
+“start”: 40,
+“end”: 500
+}]
+}, {
+“column”: 21,
+“sections”: [{
+“start”: 40,
+“end”: 500
+}]
+}, {
+“column”: 22,
+“sections”: [{
+“start”: 20,
+“end”: 500
+}]
+}, {
+“column”: 23,
+“sections”: [{
+“start”: 20,
+“end”: 500
+}]
+}, {
+“column”: 24,
+“sections”: [{
+“start”: 20,
+“end”: 500
+}]
+}, {
+“column”: 25,
+“sections”: [{
+“start”: 20,
+“end”: 500
+}]
+}, {
+“column”: 26,
+“sections”: [{
+“start”: 20,
+“end”: 500
+}]
+}, {
+“column”: 27,
+“sections”: [{
+“start”: 20,
+“end”: 500
+}]
+}, {
+“column”: 28,
+“sections”: [{
+“start”: 40,
+“end”: 500
+}]
+}, {
+“column”: 29,
+“sections”: [{
+“start”: 40,
+“end”: 500
+}]
+}, {
+“column”: 30,
+“sections”: [{
+“start”: 40,
+“end”: 500
+}]
+}, {
+“column”: 31,
+“sections”: [{
+“start”: 60,
+“end”: 500
+}]
+}, {
+“column”: 32,
+“sections”: [{
+“start”: 60,
+“end”: 500
+}]
+}, {
+“column”: 33,
+“sections”: [{
+“start”: 60,
+“end”: 500
+}]
+}, {
+“column”: 34,
+“sections”: [{
+“start”: 70,
+“end”: 330
+}, {
+“start”: 430,
+“end”: 500
+}]
+}, {
+“column”: 35,
+“sections”: [{
+“start”: 70,
+“end”: 330
+}, {
+“start”: 430,
+“end”: 500
+}]
+}, {
+“column”: 36,
+“sections”: [{
+“start”: 70,
+“end”: 330
+}, {
+“start”: 430,
+“end”: 500
+}]
+}, {
+“column”: 37,
+“sections”: [{
+“start”: 90,
+“end”: 310
+}, {
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 38,
+“sections”: [{
+“start”: 90,
+“end”: 300
+}, {
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 39,
+“sections”: [{
+“start”: 90,
+“end”: 290
+}, {
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 40,
+“sections”: [{
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 41,
+“sections”: [{
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 42,
+“sections”: [{
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 43,
+“sections”: [{
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 44,
+“sections”: [{
+“start”: 450,
+“end”: 500
+}]
+}, {
+“column”: 45,
+“sections”: [{
+“start”: 470,
+“end”: 500
+}]
+}, {
+“column”: 46,
+“sections”: [{
+“start”: 470,
+“end”: 500
+}]
+}, {
+“column”: 47,
+“sections”: [{
+“start”: 470,
+“end”: 500
+}]
+}, {
+“column”: 48,
+“sections”: [{
+“start”: 480,
+“end”: 500
+}]
+}, {
+“column”: 49,
+“sections”: [{
+“start”: 480,
+“end”: 500
+}]
+}, {
+“column”: 50,
+“sections”: [{
+“start”: 0,
+“end”: 500
+}]
+}]
+}]
+
+}
